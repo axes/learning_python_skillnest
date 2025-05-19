@@ -73,7 +73,12 @@
 # string3 = ‘Hola’ . ‘Python’
 
 
-lista_prueba = [2, 4, 6, 7, 10]
+# lista_prueba = [2, 4, 6, 7, 10]
 
 
-print(lista_prueba[2])
+# print(lista_prueba[2])
+
+def saludar():
+    print("¡Hola desde la función saludar!")
+
+saludar()
